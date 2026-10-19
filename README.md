@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Ana Condessa — Data Analytics | Business Intelligence" width="100%">
+</p>
+
 # Hi, I'm Ana Condessa 👋
 
 ### Data Analytics | Business Intelligence | Data-Driven Decision Making
