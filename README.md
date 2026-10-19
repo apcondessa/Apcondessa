@@ -1,73 +1,117 @@
-## Ana Condessa
+# Hi, I'm Ana Condessa 👋
 
-<img 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJndGFnYTRhMjJoZTgwcDZua2VycGY5NjdudTNtMHRiaWx2dXpyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"
-  width="260"
-/>
+### Data Analytics | Business Intelligence | Data-Driven Decision Making
 
-## Data & Analytics Professional
+I'm a business-oriented data professional with experience in customer success, project management, and performance analysis, currently specializing in **Data Analytics and Business Intelligence** through FIAP's Data Analytics postgraduate program.
 
-Data-focused professional with experience in **Data Analysis, Analytics, and problem-solving**, currently expanding skills in **Web Development** to build **end-to-end, data-driven solutions**.
+I combine business understanding with hands-on experience in data analysis, visualization, and cloud-based data processing to transform raw data into actionable insights that support better decisions.
 
-Strong background in analytical thinking, structured data, and transforming data into **actionable insights** that support business decisions.
+📍 Belo Horizonte, Brazil | Open to remote and international opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
+**Data Analysis & Programming**
 
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+* Python, Pandas, NumPy
+* SQL, Spark SQL
+* Exploratory Data Analysis (EDA)
+* Data cleaning, validation, and transformation
 
-### Visualization & Reporting
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat)
+**Business Intelligence & Visualization**
 
-### Web (Foundations)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+* Power BI, DAX
+* Excel
+* Matplotlib
+* KPI development, dashboard design, and analytical reporting
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+**Big Data & Cloud**
+
+* Amazon S3
+* AWS Glue
+* Amazon Athena
+* PySpark
+* Data Lake architecture (Bronze, Silver, and Gold layers)
+
+**Machine Learning**
+
+* Scikit-learn
+* Classification models
+* Feature engineering and model evaluation
+
+**Tools & Foundations**
+
+* Jupyter Notebook
+* Git and GitHub
+* HTML5 and CSS3 fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 1. The Data & AI Market in Brazil
+
+**FIAP Tech Challenge | Big Data Analytics**
+
+An end-to-end data project exploring Brazil's data and AI job market using industry survey data.
+
+* Built a cloud-based Data Lake with Bronze, Silver, and Gold layers.
+* Worked with Amazon S3, AWS Glue, PySpark, Spark SQL, and Amazon Athena.
+* Applied data transformation and exploratory analysis to support business-oriented insights.
+
+🔗 [View Project on GitHub](https://github.com/apcondessa/Mercado_de_Dados_Brasil)
+
+### 2. E-commerce Analytics — Olist
+
+**FIAP Tech Challenge | Business Intelligence**
+
+An analytical project focused on e-commerce performance, sales, and customer behavior.
+
+* Analyzed sales, freight, delivery performance, and repeat purchases.
+* Developed KPIs to evaluate revenue, customer retention, and regional performance.
+* Used Python and Power BI to support data-driven business recommendations.
+
+### 3. Wine Quality Classification
+
+**Machine Learning | Python | Scikit-learn**
+
+A machine learning project focused on predicting wine quality using classification techniques.
+
+* Performed exploratory data analysis and feature engineering.
+* Compared classification approaches and evaluated model performance.
+* Achieved **85.42% accuracy with Random Forest** in the project evaluation.
+
+🔎 [Explore my repositories](https://github.com/apcondessa?tab=repositories)
 
 ---
 
 ## 📊 Core Competencies
-- Exploratory Data Analysis (EDA)
-- Data cleaning and validation
-- SQL querying and data modeling
-- Analytical reporting and data storytelling
-- Translating data into business insights
-- Structured problem-solving
+
+* Translating business questions into analytical problems
+* Data cleaning, exploration, and quality validation
+* KPI definition and performance monitoring
+* Dashboard development and data storytelling
+* Customer behavior and business performance analysis
+* Structured problem-solving and cross-functional collaboration
 
 ---
 
-## 🚀 Current Focus
-- Building **data analysis and analytics projects**
-- Connecting **data pipelines with web applications**
-- Strengthening foundations for **international data roles**
+## 🎯 Current Focus
+
+* Advancing my skills in Data Analytics and Business Intelligence
+* Building end-to-end analytics and Big Data projects
+* Strengthening SQL, Python, Power BI, and cloud data processing
+* Connecting data pipelines, analytical insights, and business decisions
+
+🎓 **Postgraduate Program in Data Analytics — FIAP**
 
 ---
 
-## 🌍 Career Interests
-- Data Analyst  
-- Analytics Specialist  
-- Junior Data Scientist  
-- Data-driven Product Teams  
+## 🤝 Let's Connect
 
-Remote-friendly and international environments.
+I'm interested in opportunities where data, technology, and business strategy come together to solve real-world problems.
 
----
-
-## 📫 Contact
-- 💼 LinkedIn: *https://www.linkedin.com/in/anapaulacondessa/*
-- 📧 Email: *anacondessa001@gmail.com*
-
-
+* 💼 [LinkedIn](https://www.linkedin.com/in/anapaulacondessa/)
+* 📧 [Email](mailto:anacondessa001@gmail.com)
+* 💻 [GitHub Repositories](https://github.com/apcondessa?tab=repositories)
