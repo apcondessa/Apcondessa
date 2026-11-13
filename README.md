@@ -79,7 +79,7 @@ Before moving into data, I joined innovation programs such as **Gama Academy, St
 
 ## 🎓 Education & Continuous Learning
 
-| | |
+| Program | Focus |
 |---|---|
 | 🎓 **FIAP** — Postgraduate in Data Analytics (Pós-Tech) · **2026–2027** | Python, SQL, Power BI, Big Data on AWS, Machine Learning, and business-oriented analysis through Tech Challenge projects |
 | 📚 **Alura** — Ongoing studies in Data & Analytics | Including *Classification with Machine Learning*; continuous practice in Python, data analysis, and BI |
